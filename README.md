@@ -57,14 +57,21 @@ The project provided experience with PLC ladder logic, HMI development, PLC/HMI 
 
 ## Repository Contents
 
-This repository contains the original project files and supporting documentation from the university laboratory project.
+This repository contains the original Allen-Bradley project files and supporting documentation from the university laboratory project.
 
 ### Original Project Files
 
-- `Cash_Register_with_HMI.ACD` – original Allen-Bradley PLC project
-- `Cash_Register_HMI.vpd` – original HMI project file
+- `Cash_Register_with_HMI.ACD` – original Allen-Bradley PLC project file
+- `Cash_Register_HMI.vpd` – original project file associated with the HMI implementation
 
-These files have been preserved from the original university project. The required Allen-Bradley development software is not currently installed on my personal computer, so the original project files are provided as project artifacts rather than as a currently runnable development environment.
+These files were created as part of the original project using the Allen-Bradley RSLogix 5000 / Studio 5000 development environment.
+
+The required Allen-Bradley development software is not currently installed on my personal computer, so the original project files are preserved here as project artifacts. The project was originally developed and tested using the PLC and HMI equipment available in the university automation laboratory.
+
+### Documentation
+
+- `Cash Register HMI Allen Bradley.pdf` – documentation of the HMI and PLC implementation
+- `Cash Register Wired AB.pdf` – additional documentation of the Allen-Bradley implementation
 
 ### Documentation
 
