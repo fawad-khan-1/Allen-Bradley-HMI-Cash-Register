@@ -112,9 +112,11 @@ The project therefore represents an actual hardware implementation rather than o
 
 ## Demonstration
 
-A video recording was made of the completed HMI application operating on the laboratory equipment when the project was originally completed.
+The completed HMI application was implemented and tested using physical Allen-Bradley PLC and HMI equipment in the university automation laboratory.
 
-The original video may be added to this repository as an additional demonstration of the system.
+The following video was recorded when the original project was completed and demonstrates the HMI application operating on the laboratory equipment:
+
+[View the Allen-Bradley HMI Demonstration](demo/AllenBradley-HMI-Demo.mp4)
 
 ## Project Purpose
 
