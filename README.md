@@ -116,7 +116,7 @@ The completed HMI application was implemented and tested using physical Allen-Br
 
 The following video was recorded when the original project was completed and demonstrates the HMI application operating on the laboratory equipment:
 
-[View the Allen-Bradley HMI Demonstration](demo/AllenBradley-HMI-Demo.mp4)
+[View the Allen-Bradley HMI Demonstration](demo/Allenbradley-HMI-Demo.mp4)
 
 ## Project Purpose
 
